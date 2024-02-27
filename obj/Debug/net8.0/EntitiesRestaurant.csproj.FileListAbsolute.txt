@@ -1,0 +1,14 @@
+/Users/othman/Downloads/EntitiesRestaurant/bin/Debug/net8.0/EntitiesRestaurant
+/Users/othman/Downloads/EntitiesRestaurant/bin/Debug/net8.0/EntitiesRestaurant.deps.json
+/Users/othman/Downloads/EntitiesRestaurant/bin/Debug/net8.0/EntitiesRestaurant.runtimeconfig.json
+/Users/othman/Downloads/EntitiesRestaurant/bin/Debug/net8.0/EntitiesRestaurant.dll
+/Users/othman/Downloads/EntitiesRestaurant/bin/Debug/net8.0/EntitiesRestaurant.pdb
+/Users/othman/Downloads/EntitiesRestaurant/obj/Debug/net8.0/EntitiesRestaurant.GeneratedMSBuildEditorConfig.editorconfig
+/Users/othman/Downloads/EntitiesRestaurant/obj/Debug/net8.0/EntitiesRestaurant.AssemblyInfoInputs.cache
+/Users/othman/Downloads/EntitiesRestaurant/obj/Debug/net8.0/EntitiesRestaurant.AssemblyInfo.cs
+/Users/othman/Downloads/EntitiesRestaurant/obj/Debug/net8.0/EntitiesRestaurant.csproj.CoreCompileInputs.cache
+/Users/othman/Downloads/EntitiesRestaurant/obj/Debug/net8.0/EntitiesRestaurant.dll
+/Users/othman/Downloads/EntitiesRestaurant/obj/Debug/net8.0/refint/EntitiesRestaurant.dll
+/Users/othman/Downloads/EntitiesRestaurant/obj/Debug/net8.0/EntitiesRestaurant.pdb
+/Users/othman/Downloads/EntitiesRestaurant/obj/Debug/net8.0/EntitiesRestaurant.genruntimeconfig.cache
+/Users/othman/Downloads/EntitiesRestaurant/obj/Debug/net8.0/ref/EntitiesRestaurant.dll
