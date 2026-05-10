@@ -1,0 +1,53 @@
+# Visual Studio temporary files, build results, and
+# user-specific files
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider project files
+.idea/
+*.sln.iml
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# NuGet packages
+*.nupkg
+*.snupkg
+
+# Build outputs
+*.dll
+*.exe
+*.app
+*.msi
+*.pdb
+*.cache
+
+# Logs
+*.log
+
+# NuGet package restore
+project.lock.json
+.nuget/
+
+# Visual Studio Code workspace files
+.vscode/
+
+# Dotnet publish output
+publish/
+
+# Entity Framework tooling
+*__EFMigrationsHistory.cs
+
+# User secrets
+secrets.json
+
+# Rider caches
+*.ipr
+*.iws
+*.idea/
