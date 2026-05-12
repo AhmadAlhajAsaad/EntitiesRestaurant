@@ -18,6 +18,5 @@ dotnet run
 ```
 
 ## Notes
-
 - This project currently uses a single source file, `Program.cs`, with all entity definitions.
 - Nullable reference types are enabled.
